@@ -59,7 +59,7 @@
 - 練習予定の登録には過去の練習予定を見ながら検討できます。
 
 
-### naganoケーキ（ECサイト）
+### naganoケーキ（ECサイト・チーム開発）
 
 ![Animation-1](https://user-images.githubusercontent.com/83518855/127267784-4657410f-a30c-412f-99eb-7d571b1c46a7.gif)
 
